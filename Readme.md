@@ -10,11 +10,11 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/ONEV2/Introduction/tree/main/Gif/wave.gif" width="20vw" /> I’m *currently* **breaking Some device** 💔 *or fixing* **it** ❤️‍🩹 
-- <img alt="GIF" src="https://github.com/ONEV2/Introduction/tree/main/Gif/gandalf_parrot.gif" width="20vw" /> **Exploring** the world of **Embedded Systems Development**.
-- <img alt="GIF" src="https://github.com/ONEV2/Introduction/tree/main/Gif/headbang.gif" width="20vw" /> *Looking to collaborate* on **Embedded & Space related Projects**.
-- <img alt="GIF" src="https://github.com/ONEV2/Introduction/tree/main/Gif/hmm.gif" width="20vw" /> Like to spend sometime on **Kindle** 📘 and **Tinkering** 🐼
-- <img alt="GIF" src="https://github.com/ONEV2/Introduction/tree/main/Gif/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do leave a **Star** ⭐️ if you liked my work 👨‍💻.
+- <img alt="GIF" src="https://github.com/ONEV2/Introduction/blob/main/Gif/wave.gif" width="20vw" /> I’m *currently* **breaking Some device** 💔 *or fixing* **it** ❤️‍🩹 
+- <img alt="GIF" src="https://github.com/ONEV2/Introduction/blob/main/Gif/gandalf_parrot.gif" width="20vw" /> **Exploring** the world of **Embedded Systems Development**.
+- <img alt="GIF" src="https://github.com/ONEV2/Introduction/blob/main/Gif/headbang.gif" width="20vw" /> *Looking to collaborate* on **Embedded & Space related Projects**.
+- <img alt="GIF" src="https://github.com/ONEV2/Introduction/blob/main/Gif/hmm.gif" width="20vw" /> Like to spend sometime on **Kindle** 📘 and **Tinkering** 🐼
+- <img alt="GIF" src="https://github.com/ONEV2/Introduction/blob/main/Gif/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do leave a **Star** ⭐️ if you liked my work 👨‍💻.
 <br>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ONEV2&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
@@ -45,17 +45,17 @@
 
 <br>
 
-# Connect with me<img src="https://github.com/ONEV2/Introduction/tree/main/Gif/Handshake.gif" height="32px">
+# Connect with me<img src="https://github.com/ONEV2/Introduction/blob/main/Gif/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/prakhar-agrawal-984555154/">
-    <img align="left" alt="Prakhar Agrawal | Linkedin" width="24px" src="https://github.com/ONEV2/Introduction/tree/main/Gif/Linkedin.svg" />
+    <img align="left" alt="Prakhar Agrawal | Linkedin" width="24px" src="https://github.com/ONEV2/Introduction/blob/main/Gif/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/_r4nit/">
-    <img align="left" alt="Prakhar Agrawal | Instagram" width="24px" src="https://github.com/ONEV2/Introduction/tree/main/Gif/Instagram.svg" />
+    <img align="left" alt="Prakhar Agrawal | Instagram" width="24px" src="https://github.com/ONEV2/Introduction/blob/main/Gif/Instagram.svg" />
   </a> &nbsp;&nbsp;
     <a href="https://www.instagram.com/prakhar_agrawal1142000/">
   <a href="mailto:prakhar.agrawal001@gmail.com">
-    <img align="left" alt="Prakhar Agrawal | Gmail" width="26px" src="https://github.com/ONEV2/Introduction/tree/main/Gif/Gmail.svg" />
+    <img align="left" alt="Prakhar Agrawal | Gmail" width="26px" src="https://github.com/ONEV2/Introduction/blob/main/Gif/Gmail.svg" />
   </a>
 
 
