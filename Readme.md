@@ -1,4 +1,4 @@
-# Prakhar Agrawal &nbsp;<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Developer.gif" width="30px">
+# Prakhar Agrawal &nbsp;<img src="https://github.com/ONEV2/Introduction/blob/main/Gif/power.gif" width="50px">
 
 
 <!-- 
@@ -6,27 +6,25 @@
 -->
 <img style="margin-right:20px" align="right" alt="image" src="https://i.ibb.co/09pc6sX/1-Rxr-AEth-B92mo-Dc-YZRpzk5g.jpg" height="290px" width="280px" />
 
-### <img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Hi.gif" width="29px"> Hello World!&nbsp;<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Earth.gif" width="24px">
+### Hey!&nbsp;<img src="https://github.com/ONEV2/Introduction/blob/main/Gif/Hi.gif" width="29px">
 
 <br>
 
-- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping**  😴  *or working* on my **Linux** 👨‍💻
-- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> **Exploring** in **Embedded Systems Development**.
-- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/headbang.gif" width="20vw" /> *Looking to collaborate* on **Embedded & IoT Security  Projects**.
-- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/hmm.gif" width="20vw" /> Like to spend sometime with **CTFs**🚩 and **finding** 🐛
-- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** Big fan of [**The Copy Ninja**](https://www.google.com/search?gs_ssp=eJzj4tTP1TdINyzPqjJg9GLPTsxOLM7IBAA_JwZg&q=kakashi&rlz=1C1ZKTG_enIN859IN859&oq=kakashi&aqs=chrome.1.69i59j46i275i433i512j69i59j0i433i512j0i20i263i433i512l2j0i433i512j69i60.4489j0j7&sourceid=chrome&ie=UTF-8)
+- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **breaking Some device** 💔 *or fixing* **it** ❤️‍🩹 
+- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> **Exploring** the world of **Embedded Systems Development**.
+- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/headbang.gif" width="20vw" /> *Looking to collaborate* on **Embedded & Space related Projects**.
+- <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/hmm.gif" width="20vw" /> Like to spend sometime on **Kindle** 📘 and **Tinkering** 🐼
 - <img alt="GIF" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do leave a **Star** ⭐️ if you liked my work 👨‍💻.
 <br>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ONEV2&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api?username=ONEV2&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="420" /></p>
 
 ## Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/)
 
 <br>
-
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RanitPradhan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://github-readme-stats.vercel.app/api?username=RanitPradhan&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="420" /></p>
 
 ## Languages and Tools:
 <br/>
@@ -49,20 +47,20 @@
 
 # Connect with me<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Handshake.gif" height="32px">
 
-  <a href="https://www.linkedin.com/in/ranit-pradhan/">
-    <img align="left" alt="Ranit Pradhan | Linkedin" width="24px" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Linkedin.svg" />
+  <a href="https://www.linkedin.com/in/prakhar-agrawal-984555154/">
+    <img align="left" alt="Prakhar Agrawal | Linkedin" width="24px" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/_r4nit/">
-    <img align="left" alt="Ranit Pradhan | Instagram" width="24px" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Prakhar Agrawal | Instagram" width="24px" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-    <a href="https://www.instagram.com/_r4nit/">
-  <a href="mailto:pradhanranit0019@gmail.com">
-    <img align="left" alt="Vivek Kumar Singh | Gmail" width="26px" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Gmail.svg" />
+    <a href="https://www.instagram.com/prakhar_agrawal1142000/">
+  <a href="mailto:prakhar.agrawal001@gmail.com">
+    <img align="left" alt="Prakhar Agrawal | Gmail" width="26px" src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Gmail.svg" />
   </a>
 
 
 <br><br>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=RanitPradhan)
-<!-- ![visitors](https://badges.pufler.dev/visits/RanitPradhan/RanitPradhan)
-![Visitor Count](https://profile-counter.glitch.me/RanitPradhan/count.svg) -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ONEV2)
+<!-- ![visitors](https://badges.pufler.dev/visits/ONEV2/ONEV2)
+![Visitor Count](https://profile-counter.glitch.me/ONEV2/count.svg) -->
