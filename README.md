@@ -1,20 +1,20 @@
-# Prakhar Agrawal &nbsp;<img src="https://github.com/ONEV2/ONEV2/blob/main/Gif/power.gif" width="50px">
+# Prakhar Agrawal &nbsp;<img src="https://github.com/ONEV2/ONEV2/blob/main/Gif/power.gif" width="50" height="50"/>
 
 
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/reachvivek/reachvivek.svg)](http://hits.dwyl.com/reachvivek/reachvivek)
 -->
-<img style="margin-right:20px" align="right" alt="image" src="https://i.ibb.co/09pc6sX/1-Rxr-AEth-B92mo-Dc-YZRpzk5g.jpg" height="290px" width="280px" />
+<img style="margin-right:20px" align="right" alt="image" src="https://i.ibb.co/09pc6sX/1-Rxr-AEth-B92mo-Dc-YZRpzk5g.jpg" width="280" height="290" />
 
-### Hey!&nbsp;<img src="https://github.com/ONEV2/ONEV2/blob/main/Gif/Hi.gif" width="29px">
+### Hey!&nbsp;<img src="https://github.com/ONEV2/ONEV2/blob/main/Gif/Hi.gif" width="29">
 
 <br>
 
-- <img alt="GIF" src="https://github.com/ONEV2/ONEV2/blob/main/Gif/wave.gif" width="20vw" /> I’m *currently* **breaking Some device** 💔 *or fixing* **it** ❤️‍🩹 
-- <img alt="GIF" src="https://github.com/ONEV2/ONEV2/blob/main/Gif/gandalf_parrot.gif" width="20vw" /> **Exploring** the world of **Embedded Systems Development**.
-- <img alt="GIF" src="https://github.com/ONEV2/ONEV2/blob/main/Gif/headbang.gif" width="20vw" /> *Looking to collaborate* on **Embedded & Space related Projects**.
-- <img alt="GIF" src="https://github.com/ONEV2/ONEV2/blob/main/Gif/hmm.gif" width="20vw" /> Like to spend sometime on **Kindle** 📘 and **Tinkering** 🐼
-- <img alt="GIF" src="https://github.com/ONEV2/ONEV2/blob/main/Gif/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do leave a **Star** ⭐️ if you liked my work 👨‍💻.
+- <img alt="GIF" src="https://github.com/ONEV2/ONEV2/blob/main/Gif/wave.gif" width="20" /> I’m *currently* **breaking Some device** 💔 *or fixing* **it** ❤️‍🩹 
+- <img alt="GIF" src="https://github.com/ONEV2/ONEV2/blob/main/Gif/gandalf_parrot.gif" width="20" /> **Exploring** the world of **Embedded Systems Development**.
+- <img alt="GIF" src="https://github.com/ONEV2/ONEV2/blob/main/Gif/headbang.gif" width="20" /> *Looking to collaborate* on **Embedded & Space related Projects**.
+- <img alt="GIF" src="https://github.com/ONEV2/ONEV2/blob/main/Gif/hmm.gif" width="20" /> Like to spend sometime on **Kindle** 📘 and **Tinkering** 🐼
+- <img alt="GIF" src="https://github.com/ONEV2/ONEV2/blob/main/Gif/Medal.gif" width="20" /> Have a look at my Repos💡 & do leave a **Star** ⭐️ if you liked my work 👨‍💻.
 <br>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ONEV2&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
